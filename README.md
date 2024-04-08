@@ -1,4 +1,4 @@
-# Bone Modifying Agents and Outcomes in Patients with Metastatic Castration-Sensitive Prostate Cancer Treated with Abiraterone Acetate
+## Bone Modifying Agents and Outcomes in Patients with Metastatic Castration-Sensitive Prostate Cancer Treated with Abiraterone Acetate
 
 This repository contains the R code used in the study "Bone-Modifying Agents in Patients With High-Risk Metastatic Castration-Sensitive Prostate Cancer Treated With Abiraterone Acetate". The study was published in JAMA Network Open: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2816217
 
